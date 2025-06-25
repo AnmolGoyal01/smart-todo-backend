@@ -29,7 +29,7 @@ This is the backend for the **Smart Todo List** application built using Django a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/smart-todo-backend.git
+git clone https://github.com/anmolgoyal01/smart-todo-backend.git
 cd smart-todo-backend
 ```
 
